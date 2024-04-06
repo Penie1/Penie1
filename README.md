@@ -28,6 +28,6 @@ My commitment to self-improvement is a perpetual journey. Currently, I'm expandi
 I am enthusiastic about collaborating on projects that make a positive impact. If you have an idea or project in mind, feel free to reach out. Let's create something amazing together!
 
 ## Let's Connect:
-- <img src="https://www.freepnglogos.com/uploads/twitter-x-logo-png/twitter-x-logo-png-9.png" align="center" alt="twitter" width="20" height="auto"> [twitter](https://twitter.com/penie1_)
+ [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30" height="auto" />](https://linkedin.com/in/peniel-bekele)
   
 - [iCodeThis](https://icodethis.com/Peniel)
