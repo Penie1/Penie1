@@ -18,9 +18,6 @@
           
  </div>  
 
-      
-
-My commitment to self-improvement is a perpetual journey. Currently, I'm expanding my knowledge in advanced JavaScript, exploring new libraries, and seeking ways to enhance my web development toolkit.
 
 I am enthusiastic about collaborating on projects that make a positive impact. If you have an idea or project in mind, feel free to reach out. Let's create something amazing together!
 
