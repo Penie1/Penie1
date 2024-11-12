@@ -1,5 +1,4 @@
 # Hello, I'm Peniel Bekele 👋
- Self-taught Web Developer | Solving Real-World Problems
  
  I've honed my skills in web development and currently possess expertise in:
 <div>
