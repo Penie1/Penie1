@@ -21,5 +21,4 @@ I am enthusiastic about collaborating on projects that make a positive impact. I
 
 ## Let's Connect:
  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30" height="auto" />](https://linkedin.com/in/peniel-bekele)
-  
-- [iCodeThis](https://icodethis.com/Peniel)
+
