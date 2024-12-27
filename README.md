@@ -1,4 +1,4 @@
- <strong>Hey there! 👋 <br/><br/>I'm Peniel Bekele, a front-end web developer.</strong>
+ <strong>Hey there! 👋 <br/><br/>I'm Peniel Bekele, a web developer.</strong>
 <br/>
 <br/>
 <br/>
